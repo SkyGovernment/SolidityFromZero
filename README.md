@@ -9,3 +9,9 @@ It all started with a tutorial video and a playlist from YouTube
 ## Learning Solidity Basic Repository
 
 [Solidity Basics](https://github.com/SkyGovernment/solidity_basics) forked from HashLips
+
+## Where and how to start...
+
+1. Use [Remix by Ethereum](http://remix.ethereum.org/#) IDE
+2. Follow through tutorial video while coding and testing
+3. Always refer the latest [Official Solidity Documentation](https://docs.soliditylang.org/en/v0.8.9/)
