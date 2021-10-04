@@ -15,4 +15,4 @@ It all started with a tutorial video and a playlist from YouTube
 1. Use [Remix by Ethereum](http://remix.ethereum.org/#) IDE
 2. Follow through tutorial video while coding and testing
 3. Always refer the latest [Official Solidity Documentation](https://docs.soliditylang.org/en/v0.8.9/)
-4. Codes inside the [contract folder](https://github.com/SkyGovernment/SolidityFromZero/tree/main/contracts)
+4. Codes are located inside the [contract folder](https://github.com/SkyGovernment/SolidityFromZero/tree/main/contracts)
