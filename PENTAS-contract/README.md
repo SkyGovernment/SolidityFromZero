@@ -8,3 +8,9 @@ Smartcontracts located at: https://bscscan.com/address/0x61022dd5e1f951e4a2778e2
 - Compiler Version v0.8.2+commit.661d1103
 - Optimization Enabled: Yes with 200 runs
 - Other Settings: default evmVersion
+
+## How to compile and deploy PENTAS Smartcontract in Remix?
+
+1. Create the same 3 files and copy the codes.
+2. Compile, but before that make sure the Compiler version set to 0.8.2
+3. Deploy
